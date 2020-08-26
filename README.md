@@ -28,8 +28,11 @@ There are 15 tables in the DVD Rental database:
 * city – stores city names.
 * country – stores country names.
 
-# Questions I'm answering in this project are :
+# Questions I'm answering using SQL queries in this project are :
 1. What film category do families prefer to watch the most ?
 2. How the two stores compare to each other ?
 3. Who were the top 10 customers ?
 4. What is the customer name who paid the most difference in terms of payments ?
+
+# Report
+I made a report to answer these questions in simple clear but informative visuals and sentences
